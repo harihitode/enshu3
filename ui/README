@@ -1,0 +1,7 @@
+OSX Only
+
+for build
+$ make
+
+for execution
+$ ./ui
